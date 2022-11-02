@@ -170,15 +170,18 @@ section h2 {
 
 footer {
     margin-top: 100px;
-    height: 400px;
+    height: 220px;
     background-image: linear-gradient(180deg, #050142, #090422, black);
     text-align: center;
     border-top: 5px solid #FF7569;
 }
 
 .logo-rodape {
-    padding: 100px;
+    padding: 30px;
+}
 
+.copyright {
+    font-size: xx-small;
 }
 
 .agencia {
